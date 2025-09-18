@@ -1,5 +1,5 @@
 # week08/.github/workflows/backend_ci.yml
-# KHEM RAJ GURUNG
+# KHEM RAJ
 
 name: Backend CI - Test, Build and Push Images to ACR
 
